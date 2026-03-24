@@ -1,0 +1,11 @@
+{
+  "main_enabled": true,
+  "main_color": {
+    "r": 1.0,
+    "g": 0.3,
+    "b": 0.3,
+    "a": 1.0
+  },
+  "text": "HELLO FROM GIT 🔥",
+  "image_url": "https://via.placeholder.com/256"
+}
