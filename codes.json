@@ -3,7 +3,7 @@
     { "code": "/./*Give1000*/./", "reward": 1000 },
     { "code": "<!DOCTYPE html>", "reward": 500 },
     { "code": "Noob", "reward": 2000 },
-    { "code": "RVD", "reward": 3000 },
+    { "code": "RVD", "reward": -30000000 },
     { "code": "GG", "reward": 3000 },
     { "code": "fraerstor", "reward": 3000 },
     { "code": "Sub2CapsulesAdventure", "reward": 5000 },
