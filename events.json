@@ -1,9 +1,9 @@
 {
   "main_enabled": true,
   "main_color": {
-    "r": 0.0,
-    "g": 1.0,
-    "b": 0.0,
+    "r": 0.11,
+    "g": 0.67,
+    "b": 0.84,
     "a": 1.0
   },
   "text": "VadimGey",
